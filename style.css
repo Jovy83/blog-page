@@ -16,7 +16,7 @@ body {
 
 h1,
 h2,
-h4 {
+h5 {
   font-family: Montserrat;
 }
 
@@ -46,7 +46,7 @@ h1 {
 }
 
 .post-info h2,
-.post-info h4 {
+.post-info h5 {
     margin-bottom: 16px;
 }
 
